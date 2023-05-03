@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="QMR Tests">
+  <test name="QMR Report Time">
+    <classes>
+      <class name="PlanTools.QMRgenerationtime"/>
+      <class name="PlanTools.QMRPrivateGenerate"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
